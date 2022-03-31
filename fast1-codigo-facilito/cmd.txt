@@ -1,0 +1,5 @@
+// Fastapi
+// sqlite
+// peewee -> ORM
+
+run=> uvicorn main:app --reload
